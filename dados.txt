@@ -1,0 +1,85 @@
+    Publicidade: é uma forma de comunicação comercial que tem como objetivo promover um produto ou serviço para atrair clientes.
+
+    Anúncio: é a mensagem que a empresa quer transmitir ao público-alvo, utilizando diferentes formatos como texto, imagem, vídeo, etc.
+
+    Público-alvo: são as pessoas que a empresa quer atingir com a sua mensagem publicitária, com base em características demográficas, geográficas, psicográficas ou comportamentais.
+
+    Meios de comunicação: são os canais utilizados para transmitir a mensagem publicitária, como TV, rádio, jornais, revistas, internet, mídias sociais, entre outros.
+
+    Briefing: é o documento que contém as informações necessárias para a criação da campanha publicitária, como o objetivo, o público-alvo, a mensagem a ser transmitida, o orçamento, entre outros.
+
+    Criação: é a etapa em que se desenvolve a ideia central da campanha publicitária, criando o conceito, o layout, o texto e os elementos visuais.
+
+    Veiculação: é a fase em que a campanha publicitária é divulgada nos meios de comunicação escolhidos, de acordo com o planejamento de mídia.
+
+    ROI (Return on Investment): é a métrica utilizada para medir o retorno financeiro de uma campanha publicitária em relação ao investimento realizado.
+
+    CPC (Custo por Clique): é uma métrica utilizada em campanhas de publicidade online, que mede o valor pago por cada clique em um anúncio.
+
+    Impressões: é o número de vezes que um anúncio é exibido para o público-alvo, independentemente se houve ou não interação com ele.
+    
+    ROI (Return on Investment): Mede o retorno financeiro que uma campanha gerou em relação ao investimento realizado.
+
+    CAC (Custo de Aquisição de Cliente): Calcula o custo médio para adquirir um novo cliente.
+
+    CPC (Custo por Clique): Mede o valor médio pago por cada clique em um anúncio online.
+
+    CPM (Custo por Mil Impressões): Mede o valor médio pago por cada mil vezes que um anúncio é exibido.
+
+    CPA (Custo por Aquisição): Calcula o valor médio pago por cada conversão ou aquisição de cliente.
+
+    Taxa de Conversão: Mede a porcentagem de pessoas que clicam em um anúncio e realizam a ação desejada, como preencher um formulário ou efetuar uma compra.
+
+    Taxa de Abertura: Mede a porcentagem de pessoas que abrem um email de marketing em relação ao número total de pessoas que receberam o email.
+
+    Taxa de Cliques: Mede a porcentagem de pessoas que clicam em um link em um email de marketing em relação ao número total de pessoas que abriram o email.
+
+    Taxa de Engajamento: Mede a interação dos usuários com as postagens em redes sociais, como curtidas, comentários, compartilhamentos, entre outros.
+
+    Retenção: Mede a porcentagem de clientes que continuam a utilizar um produto ou serviço após um determinado período de tempo.
+    
+TRP (Target Rating Point) é uma métrica utilizada em publicidade para medir o alcance de uma campanha em relação ao público-alvo definido. É muito utilizado em campanhas de televisão e rádio, embora também possa ser aplicado a outros meios de comunicação.
+
+O TRP é calculado a partir do número de pessoas que assistiram ou ouviram um anúncio, multiplicado pela frequência com que ele foi exibido, e depois dividido pelo tamanho do público-alvo.
+
+Por exemplo, se uma campanha publicitária de televisão alcançou 10 milhões de pessoas, com uma frequência média de 3 vezes por semana, e o público-alvo era de 50 milhões de pessoas, o TRP seria de 60 (10 milhões x 3 / 50 milhões = 0,6 x 100 = 60).
+
+O TRP é importante porque permite que as empresas saibam o quanto estão alcançando o público-alvo com a campanha, ajudando a otimizar a estratégia de mídia e ajustar a frequência e a duração dos anúncios. No entanto, é importante lembrar que o TRP não é a única métrica a ser considerada, e outras métricas como ROI, CAC, CPA e taxa de conversão também devem ser avaliadas para medir a eficácia geral da campanha.
+
+
+
+GRP (Gross Rating Point) é uma métrica muito utilizada em publicidade para medir a cobertura de uma campanha publicitária em um determinado mercado ou região geográfica. A métrica GRP é calculada a partir da soma dos pontos de rating obtidos em cada inserção publicitária.
+
+O ponto de rating é um indicador que mede a porcentagem de um público-alvo que foi exposto a um anúncio. Por exemplo, se um comercial foi exibido em um programa de TV que alcançou 1 milhão de pessoas, e 500 mil dessas pessoas fazem parte do público-alvo da campanha, o ponto de rating seria de 50 (500 mil / 1 milhão = 0,5 x 100 = 50).
+
+Assim, se uma campanha publicitária teve 10 inserções em programas de TV com um ponto de rating de 50, o GRP seria de 500 (10 x 50 = 500). Em outras palavras, a campanha atingiu um total bruto de 500 pontos de rating durante o período de veiculação.
+
+O GRP é uma métrica importante porque ajuda a avaliar a cobertura da campanha e comparar o desempenho com outras campanhas. No entanto, assim como no caso do TRP, é importante lembrar que o GRP não é a única métrica a ser considerada, e outras métricas como ROI, CAC, CPA e taxa de conversão também devem ser avaliadas para medir a eficácia geral da campanha.
+
+    Impressões: uma impressão ocorre quando um anúncio é exibido em um dispositivo (como um smartphone, computador ou tablet) e é visto por um usuário. É uma métrica utilizada para medir o número de vezes que um anúncio é exibido.
+
+    CPM: CPM (custo por mil impressões) é uma métrica utilizada em publicidade online para calcular o custo de exibir mil impressões de um anúncio. É uma maneira de avaliar o custo efetivo de uma campanha publicitária.
+
+    CPC: CPC (custo por clique) é uma métrica utilizada em publicidade online para calcular o custo de cada clique em um anúncio. É uma maneira de avaliar o custo efetivo de uma campanha publicitária com base no número de cliques que ela gera.
+
+    CTR: CTR (taxa de cliques) é uma métrica utilizada em publicidade online para medir a eficácia de um anúncio em relação ao número de impressões. É calculado como o número de cliques dividido pelo número de impressões, expresso como uma porcentagem.
+
+    Segmentação: é o processo de identificar um público-alvo específico para uma campanha publicitária e ajustar a mensagem e o meio de comunicação para se adequar a esse público. A segmentação ajuda a aumentar a eficácia da campanha, garantindo que a mensagem seja direcionada para as pessoas certas.
+
+    Frequência: a frequência é o número de vezes que um anúncio é exibido para um usuário específico. É importante equilibrar a frequência para garantir que a mensagem seja lembrada, mas sem se tornar irritante ou invasiva.
+
+    Call-to-action (CTA): é uma mensagem persuasiva incluída em um anúncio que incentiva o público a tomar uma ação específica, como visitar um site, fazer uma compra ou entrar em contato com a empresa. O CTA é um elemento importante de um anúncio eficaz, pois incentiva os consumidores a agir.
+    
+    Branding: é o processo de construção e gestão da marca de uma empresa, criando uma imagem e uma reputação positiva para a marca. A publicidade é uma das ferramentas utilizadas para a construção do branding.
+
+    Retargeting: é uma estratégia de publicidade online que consiste em exibir anúncios personalizados para usuários que já interagiram com a marca ou com o site da empresa. É uma maneira eficaz de manter a marca presente na mente do consumidor e incentivar uma nova compra.
+
+    Programática: é a utilização de tecnologia e algoritmos para a compra e venda automatizada de espaços publicitários em meios digitais. É uma forma eficiente e escalável de comprar e veicular anúncios online.
+
+    Teste A/B: é uma técnica de marketing que consiste em criar duas versões de um mesmo anúncio ou página de destino, variando apenas um elemento (como uma imagem, um título ou uma cor) para descobrir qual delas tem melhor desempenho. É uma maneira de otimizar a campanha e melhorar a eficácia dos anúncios.
+
+    Remarketing: é uma estratégia de publicidade online que consiste em exibir anúncios personalizados para usuários que já visitaram o site da empresa, mas não concluíram uma compra. É uma forma eficaz de recuperar o interesse desses consumidores e incentivá-los a finalizar a compra.
+
+    Inbound Marketing: é uma estratégia de marketing que consiste em atrair clientes por meio de conteúdo relevante e útil, em vez de interrompê-los com publicidade invasiva. É uma maneira eficaz de construir relacionamentos duradouros com os clientes e criar uma base sólida de fãs da marca.
+
+    Influencer Marketing: é uma estratégia de marketing que consiste em utilizar pessoas influentes nas redes sociais para promover produtos e serviços. É uma forma de alcançar um público mais amplo e criar confiança na marca por meio da recomendação de pessoas influentes.
